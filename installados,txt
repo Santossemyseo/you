@@ -1,4 +1,0 @@
- yt_dlp
- python
- ffmpeg
- pip install requests requests-cache fake-useragent stem yt_dlp
